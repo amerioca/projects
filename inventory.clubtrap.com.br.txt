@@ -1,0 +1,3 @@
+My inventory program to connect all the local clubs at night to know if someone else has stock in case a certain liquer runs out.  It wall also keep stock of the bars to limit the employees from stealing.
+
+All done with bar codes.
